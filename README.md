@@ -10,7 +10,7 @@ Hi, I'm Thomas SENDRA
 </p>
 <hr/>
 <samp>
- I’m Passionate about artificial intelligence, I have an appetite for all issues related to machine learning.
+ I’m Passionate about artificial intelligence, I have an appetite for all issues related to deep learning.
 </samp>
 
 ## 🙋‍♀️ Let's Connect
